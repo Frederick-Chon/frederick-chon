@@ -46,7 +46,7 @@
 
 ###
 
-<p align="left">I’ve spent more time perfecting my pour-over coffee technique than I’d like to admit—did you know the Tetsu Kasuya 4:6 method can completely change the flavor profile of your brew?</p>
+<p align="left">I’ve spent more time perfecting my pour-over coffee technique than I’d like to admit—did you know Tetsu Kasuya's 4:6 method can completely change the flavor profile of your brew?</p>
 
 ###
 
