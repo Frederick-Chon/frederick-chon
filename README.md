@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Building Brewify, a brewing calculator web app for the Tetsu Kasuya's 4:6 coffee brewing method. It’s a mobile-first app leveraging Next.js, TypeScript, Tailwind CSS, and Prisma.</p>
+<p align="left">Building FourSix, a brewing calculator web app for the Tetsu Kasuya's 4:6 coffee brewing method. It’s a mobile-first app leveraging React, TypeScript, Tailwind CSS, and NodeJS.</p>
 
 ###
 
